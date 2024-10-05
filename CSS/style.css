@@ -1,0 +1,12 @@
+*{
+    margin: 0  ;
+    padding: 0;
+    
+}
+#hero{
+    background-image: url("../Image/techbull\,z.jpg");
+   
+
+   background-size: cover;
+   height: 1000px;
+}
